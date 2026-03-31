@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BloodSMPz.aternos.me",
-    "port": 44378,
-    "version": "1.21.11",
+    "ip": "amermc.falix.gg",
+    "port": 22056,
+    "version": "1.12.2",
     "try-creative": false
   },
   "position": {
