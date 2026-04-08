@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "amermc.falix.gg",
-    "port": 22056,
+    "ip": "CreeperMC-hz80.aternos.me",
+    "port": 35516,
     "version": "1.12.2",
     "try-creative": false
   },
